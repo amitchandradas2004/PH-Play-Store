@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://i.pinimg.com/736x/c6/09/0d/c6090df18193e2616a6a32076883b70c.jpg",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 1,
+    "description": "WhatsApp Messenger is a free messaging app available for Android and other smartphones. WhatsApp uses your phone's Internet connection to let you message and call friends and family. Switch from SMS to WhatsApp to send and receive messages, calls, photos, videos, documents, and voice messages. Stay connected with people no matter where they are, safely and securely with end-to-end encryption.",
+    "size": 80,
+    "reviews": "172000K",
+    "ratingAvg": 4.5,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 2400000 },
+      { "name": "3 star", "count": 8400000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 136000000 }
+    ]
+  },
+  {
+    "image": "data:image/png;base64,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",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "id": 2,
+    "description": "Spotify gives you instant access to millions of songs, albums, and podcasts from artists all over the world. Stream your favorite tracks, discover new music, and build playlists with ease. With personalized recommendations, offline playback, and high-quality audio, Spotify makes it simple to enjoy the perfect soundtrack to your life—anytime, anywhere.",
+    "size": 110,
+    "reviews": "32000K",
+    "ratingAvg": 4.4,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 4200000 },
+      { "name": "4 star", "count": 9800000 },
+      { "name": "5 star", "count": 14900000 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png",
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "id": 3,
+    "description": "Instagram brings you closer to the people and things you love. Connect with friends, share what you're up to, or see what's new from others all over the world. Explore communities, share photos and videos, and express yourself with creative tools like Reels, Stories, and filters. Build your presence, follow your interests, and make your mark online.",
+    "size": 130,
+    "reviews": "160000K",
+    "ratingAvg": 4.2,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 10000000 },
+      { "name": "3 star", "count": 22000000 },
+      { "name": "4 star", "count": 45000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/db/bb/57/dbbb57e4a4dd74be71504cdbac7a3095.jpg",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 4,
+    "description": "TikTok is the destination for mobile videos. Create short-form videos that are exciting, spontaneous, and genuine. Whether you're a sports fan, a pet lover, or just looking for laughter, there's something for everyone on TikTok. Discover millions of creators, participate in challenges, and share your creativity with the world.",
+    "size": 180,
+    "reviews": "45000K",
+    "ratingAvg": 4.4,
+    "downloads": "3000M",
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 13000000 },
+      { "name": "5 star", "count": 17000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/4a/b5/9b/4ab59bf6437538d0d99264293ef3c479.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 5,
+    "description": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Send photos and videos that disappear after being viewed, or save memories to share later. Express yourself with filters, lenses, Bitmoji, and more. Snapchat makes everyday communication fun and fast.",
+    "size": 95,
+    "reviews": "28000K",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 1700000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8800000 },
+      { "name": "5 star", "count": 12300000 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/png-clipart/20221018/ourmid/pngtree-youtube-social-media-3d-stereo-png-image_6308427.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Get the official YouTube app for Android phones and tablets. See what the world is watching — from the hottest music videos to what's trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device. YouTube lets you explore endless video content tailored just for you.",
+    "size": 140,
+    "reviews": "145000K",
+    "ratingAvg": 4.5,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 13000000 },
+      { "name": "4 star", "count": 42000000 },
+      { "name": "5 star", "count": 79000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/59/6d/74/596d74fed827cf406cbd2a4f0d8f00b2.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "Telegram is a messaging app focused on speed and security. It's super-fast, simple, and free. You can send messages, photos, videos, and files of any type. Create groups for up to 200,000 members or channels for broadcasting to unlimited audiences. Cloud-based and encrypted, Telegram keeps your data safe while syncing seamlessly across all devices.",
+    "size": 75,
+    "reviews": "22000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 14600000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/72/a0/50/72a0500ff35991d147a6b48e4bffc721.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 8,
+    "description": "Looking for the most talked-about TV shows and movies? They're all on Netflix. Watch award-winning series, documentaries, movies, and stand-up specials. With personalized recommendations and offline viewing, Netflix makes it easy to find your next favorite story anytime, anywhere.",
+    "size": 150,
+    "reviews": "25000K",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 1900000 },
+      { "name": "3 star", "count": 4200000 },
+      { "name": "4 star", "count": 8800000 },
+      { "name": "5 star", "count": 9800000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/44/72/7f/44727f1cea8b888d0fd752782bf9348f.jpg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods. Whether you're commuting or traveling, Google Maps helps you find the best route every time.",
+    "size": 100,
+    "reviews": "160000K",
+    "ratingAvg": 4.4,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 8000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 38000000 },
+      { "name": "5 star", "count": 96000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 10,
+    "description": "The X app (formerly Twitter) is the place to see what's happening. Follow your interests, join global conversations, and share your thoughts instantly. From breaking news to sports, entertainment, and politics, X connects you to the world in real-time.",
+    "size": 85,
+    "reviews": "30000K",
+    "ratingAvg": 4.0,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 2200000 },
+      { "name": "2 star", "count": 3400000 },
+      { "name": "3 star", "count": 4200000 },
+      { "name": "4 star", "count": 7200000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/98/92/8c/98928c82f78bdd50c5a28d8fa4633035.jpg",
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "id": 11,
+    "description": "Join millions of players worldwide as you build your village, raise a clan, and compete in epic Clan Wars! Clash of Clans is a strategic combat game where you command armies of Barbarians, Archers, and legendary heroes. Build defenses to protect your base and raid others for loot. With endless upgrades, clan events, and real-time battles, Clash of Clans delivers nonstop action and community-driven fun.",
+    "size": 280,
+    "reviews": "65000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 43500000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/51/6a/74/516a74d6d701c86c007f668d7cf2891a.jpg",
+    "title": "PUBG Mobile",
+    "companyName": "Level Infinite",
+    "id": 12,
+    "description": "PUBG Mobile delivers the most intense free-to-play multiplayer action on mobile. Drop into the battlefield, gear up, and fight to be the last one standing. Explore diverse maps, realistic weapons, and exciting modes like Team Deathmatch and Payload. With frequent updates and events, PUBG Mobile provides endless entertainment for competitive and casual gamers alike.",
+    "size": 750,
+    "reviews": "46000K",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 11000000 },
+      { "name": "5 star", "count": 19000000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/69/81/7e/69817eac50792cffdb7973074e4b5bde.jpg",
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "id": 13,
+    "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions around the world. Match colorful candies to progress through thousands of levels, each offering unique challenges and boosters. Easy to play but hard to master, Candy Crush Saga is the ultimate casual game that keeps you coming back for more delicious fun.",
+    "size": 260,
+    "reviews": "35000K",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 2100000 },
+      { "name": "3 star", "count": 4100000 },
+      { "name": "4 star", "count": 8600000 },
+      { "name": "5 star", "count": 19700000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/b2/f8/28/b2f828513f21444829a619ce563d4d4e.jpg",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 14,
+    "description": "LinkedIn is the world's largest professional network. Connect with colleagues, discover career opportunities, and stay up to date with the latest industry trends. Build your personal brand, follow companies, and learn new skills through LinkedIn Learning. Whether you're job hunting or hiring, LinkedIn helps professionals succeed and grow together.",
+    "size": 120,
+    "reviews": "25000K",
+    "ratingAvg": 4.4,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 3200000 },
+      { "name": "4 star", "count": 7200000 },
+      { "name": "5 star", "count": 11800000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/52/b4/20/52b42001bcc7a0cb013c97eeb3ead223.jpg",
+    "title": "Duolingo: Learn Languages",
+    "companyName": "Duolingo",
+    "id": 15,
+    "description": "Learn a new language for free with Duolingo. Practice speaking, reading, listening, and writing in a fun, bite-sized way. Duolingo helps you master over 30 languages like Spanish, French, German, and Japanese. With gamified lessons, streak tracking, and personalized goals, Duolingo makes learning addictive and effective for everyone.",
+    "size": 65,
+    "reviews": "14000K",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 8700000 }
+    ]
+  }
+]
